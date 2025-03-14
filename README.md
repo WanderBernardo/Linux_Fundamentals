@@ -7,7 +7,6 @@ The goals this repository is describe a resume about some commands and user, gro
 - Introduction the System Operation Linux
 - Install Linux and tools
 - Remote access to Linux machine: Windowns, Linux, Putty, SSH, AWS
-- Documents:
 
 ### Working with users, files and diretory in the Linux
 - Handling files: ls, ls -l, cat, touch, echo, cp, mv, rm, rm -r, find, vim, nano, chmod, chown etc
