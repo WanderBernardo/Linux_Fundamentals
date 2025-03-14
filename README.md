@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a52099c8-ecb9-4300-ad37-b002fd4c0b53)
+![image](https://github.com/user-attachments/assets/33a2e0b2-5941-4b2c-83b8-2b685f325945)
 
 The goals this repository is describe a resume about some commands and user, group and permission settings.
 
