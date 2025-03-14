@@ -27,6 +27,12 @@ The goals this repository is describe a resume about some commands and user, gro
 - Description and Setting
 - Install Tools etc
 
+### Projecs
+
+- https://github.com/WanderBernardo/Linux_Create_user_group_directory
+- 
+
+
 ### Utils Links:
 - https://sempreupdate.com.br/linux/50-aplicativos-para-o-ubuntu-linux-que-voce-deveria-usar/
 - https://programadorviking.com.br/distros-linux-para-desenvolvedores/
